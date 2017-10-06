@@ -1,0 +1,156 @@
+html {
+    background-color: #333;
+    background-color: -webkit-linear-;
+}
+
+/*
+    font-family: 'Lora', serif;
+    font-family: 'Arimo', sans-serif;
+   / font-family: 'Bitter', serif;
+   / font-family: 'Merriweather', serif;
+    font-family: 'Oxygen', sans-serif;
+*/
+
+body {
+    margin: 0 auto;
+    padding: 0em 0em 1em;
+    max-width: 75.5em;
+    
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    
+    text-align:center;
+    background-color: white;
+    border-style: solid;
+    border-width: 0.3em;
+}
+
+
+
+h1 {
+ text-decoration: bold;
+ text-align: center;
+ font-size:2em;
+    color:#333;
+ font-family: 'Oxygen', sans-serif;
+ }
+
+h2 { 
+ text-align: center;
+ text-decoration:bold;
+    color:#333;
+ font-family: 'Oxygen', sans-serif;
+ }
+
+
+#header {    
+    position: relative;
+    top: 0;
+    left: 0;
+    right:0;
+    height: 5em;
+    width: 100%;
+    background-color: white;
+    }
+
+#header1 {    
+    position: relative;
+    top: 0;
+    left: 0;
+    right:0;
+    height: 1em;
+    width: 100%;
+    background-color: white;
+    }
+
+#header2 {    
+    position: relative;
+    top: 0;
+    left: 0;
+    right:0;
+    height: 2em;
+    width: 100%;
+    background-color: white;
+    }
+
+
+#paragraph1 {
+ text-decoration: none;
+ text-align: center;
+ font-size: 1.04em;
+    color:#333;
+ font-family: 'Oxygen', sans-serif;
+ text-indent: none;
+ padding: 1em;
+}
+
+#paragraph2 {
+ text-decoration: none;
+ text-align: center;
+ font-family: 'Oxygen', sans-serif;
+ font-size: 1.04em;
+ color:#333;
+ text-indent: none;
+ padding: 1em;
+}
+
+#paragraph3 {
+
+ text-decoration: none;
+ font-family: 'Oxygen', sans-serif;
+ font-size: 1.04em;
+ color:#333;
+ text-indent: none;
+ padding: 1em;
+}
+
+
+#Social {
+ display: inline-block;
+ padding: 0em;
+ position: relative;
+ white-space: nowrap;
+}
+
+img {
+padding: 2em;
+padding-left: 5em;
+}
+
+#placeholder {
+ text-decoration: none;
+ text-align: left;
+ font-size: 1em;
+ color:#333;
+ text-indent: none;
+ padding: 1em;
+}
+
+footer {
+ text-decoration: none;
+ font-size: 1em;
+ font-family: 'Oxygen', sans-serif;
+ color:#333;
+ text-indent: none;
+}
+
+a { 
+ text-align: center;
+ text-decoration: none;
+ color:#333;
+ }
+
+ul {
+    list-style: none;
+    text-align: center;
+    -webkit-padding-start:0px;
+    list-style-position:center;
+    
+}
+
+    a:hover { text-decoration:underline; }
+    a:hover { color:#8B0000; }
+    h1:hover { color:#8B0000; }
+    h2:hover { color:#8B0000; }
+    h3:hover { color:#8B0000; }
